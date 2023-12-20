@@ -8,3 +8,5 @@ https://github.com/rreeggeenntt4/jsclassbuttons/blob/main/ishodnik.js
 
 
 Решение: https://github.com/rreeggeenntt4/jsclassbuttons/blob/main/js.js
+
+Видеодемонстрация: 

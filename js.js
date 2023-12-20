@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
             this.element.style.transition = 'color 0.3s ease-out, background-color 0.3s ease-out';
             this.element.style.color = this.generateRandomColor();
             this.element.style.backgroundColor = this.generateRandomColor();
-            await ColorfulButton.sleep(3000); // Wait 0.3 seconds
+            await ColorfulButton.sleep(300); // Wait 0.3 seconds
             this.element.style.transition = '';
         }
         generateRandomColor() {
