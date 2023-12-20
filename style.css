@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: grid;
+    gap: 30px;
+    grid-template-columns: repeat(6, 1fr);
+    justify-content: center;
+    margin: 30px;
+}
+
+.padings {
+    background: #66ff66;
+    cursor: pointer;
+    font-size: larger;
+    height: 70px;
+    border: 1px solid greenyellow;
+}
