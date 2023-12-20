@@ -9,4 +9,4 @@ https://github.com/rreeggeenntt4/jsclassbuttons/blob/main/ishodnik.js
 
 Решение: https://github.com/rreeggeenntt4/jsclassbuttons/blob/main/js.js
 
-Видеодемонстрация: 
+Видеодемонстрация: https://youtu.be/buF0ndn_z8c
